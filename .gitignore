@@ -21,3 +21,10 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+.idea/vcs.xml
+.idea/pixel-positions-laracasts.iml
+.idea/php.xml
+.idea/php-test-framework.xml
+.idea/modules.xml
+.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd
+.idea/commandlinetools/Laravel_07_05_24__19_45.xml
